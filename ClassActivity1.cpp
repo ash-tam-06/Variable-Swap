@@ -1,4 +1,4 @@
-//Swap values of variables
+//Swap values of variable
 
 #include "ClassActivity1.h"
 #include <iostream>
